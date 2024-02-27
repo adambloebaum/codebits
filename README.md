@@ -1,5 +1,9 @@
 # codebits
 
+Miscellaneous bits of code.
+
+## Formula 1
+
 #### f1-sound-vis.js
 This p5.js script visualizes sound levels from a microphone by moving a racecar across a track on the screen. The movement and speed of the car represent the volume level sensed by the mic. Key functionalities include:
 
@@ -69,6 +73,8 @@ This p5.js script visualizes sound levels from a microphone by moving a racecar 
   }
   ```
   Resets the car's position to the start of the track once it moves off the canvas.
+
+## Parking
 
 #### citation_transaction.js
 This script is used for issuing new parking citations in the parking management system.
